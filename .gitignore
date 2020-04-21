@@ -1,2 +1,3 @@
-GenMaze/cppCode/*
+/GenMaze/cppCode/*
+!/GenMaze/cppCode/po.cpp
 GenMaze/testData/sample
