@@ -12,7 +12,7 @@ Goのコンパイル環境.
 
 標準出力に迷路データをテキストフォーマットで出力する.
 
-出力形式は @micromouseonline の https://github.com/micromouseonline/mazefiles に準拠する.
+出力形式は @micromouseonline さんの https://github.com/micromouseonline/mazefiles に準拠する.
 
 テストケースとして2016-2019の全日本ハーフは全部通ったはずだけど, 問題があったら教えてください.
 #### How to use
