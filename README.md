@@ -9,8 +9,11 @@ Goのコンパイル環境.
 ## Directory
 ### MazeFormatter
 マイクロマウスのホームページにあるPDFから迷路データを抽出する. 迷路の大きさなども自動推定してくれるので嬉しい.
+
 標準出力に迷路データをテキストフォーマットで出力する.
+
 出力形式は @micromouseonline の https://github.com/micromouseonline/mazefiles に準拠する.
+
 テストケースとして2016-2019の全日本ハーフは全部通ったはずだけど, 問題があったら教えてください.
 #### How to use
 **予め, 該当ページをImageMagickなどでbmpに変換する.**
